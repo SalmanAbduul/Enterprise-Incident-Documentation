@@ -8,11 +8,11 @@ These case studies demonstrate structured problem solving, root cause analysis, 
 
 ## Case Studies
 
-### 1. Data Recovery Following Operating System Failure
-Diagnosing macOS boot failure caused by interrupted system update and recovering user data.
-
-### 2. Network Connectivity Troubleshooting
+### 1. Network Connectivity Troubleshooting
 Root cause analysis of persistent network connectivity failures.
+
+### 2. Data Recovery Following Operating System Failure
+Diagnosing macOS boot failure caused by interrupted system update and recovering user data.
 
 ## Skills Demonstrated
 
