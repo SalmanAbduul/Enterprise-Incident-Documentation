@@ -21,3 +21,12 @@ Root cause analysis of persistent network connectivity failures.
 - Data Recovery
 - System Diagnostics
 - Troubleshooting Methodology
+
+## Troubleshooting Framework Used
+
+1. Identify the problem
+2. Establish a theory of probable cause
+3. Test the theory
+4. Establish a plan of action
+5. Verify system functionality
+6. Document findings
