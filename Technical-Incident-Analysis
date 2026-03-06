@@ -5,6 +5,3 @@ it-incident-case-studies
 ├── case-studies
 │   ├── network-connectivity-troubleshooting.md
 │   └── os-crash-diagnostics.md
-│
-└── images
-    └── diagrams or screenshots
