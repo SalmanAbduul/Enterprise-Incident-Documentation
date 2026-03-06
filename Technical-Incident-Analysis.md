@@ -1,7 +1,0 @@
-technical-incident-case-studies
-│
-├── README.md
-│
-├── case-studies
-│   ├── network-connectivity-troubleshooting.md
-│   └── os-crash-diagnostics.md
